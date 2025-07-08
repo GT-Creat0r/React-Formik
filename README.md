@@ -49,11 +49,18 @@ A full-stack Form Handling app built with modern technologies. This project demo
 ## Installation
 
 **Frontend**
+```
 cd frontend
 npm install
 npm run dev
-
+```
 **Backend**
+Create a .env file for your backend:
+DATABASE_URL=
+JWT_SECRET=
+
+```
 cd backend
 npm install
 npm run start:dev
+```
