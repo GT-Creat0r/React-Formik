@@ -56,9 +56,10 @@ npm run dev
 ```
 **Backend**
 Create a .env file for your backend:
+```
 DATABASE_URL=
 JWT_SECRET=
-
+```
 ```
 cd backend
 npm install
